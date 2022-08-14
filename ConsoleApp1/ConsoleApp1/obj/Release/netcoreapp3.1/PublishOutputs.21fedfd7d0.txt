@@ -1,0 +1,5 @@
+C:\Users\Finch\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\kitty\ConsoleApp1.exe
+C:\Users\Finch\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\kitty\ConsoleApp1.dll
+C:\Users\Finch\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\kitty\ConsoleApp1.deps.json
+C:\Users\Finch\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\kitty\ConsoleApp1.runtimeconfig.json
+C:\Users\Finch\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\kitty\ConsoleApp1.pdb
